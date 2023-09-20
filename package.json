@@ -1,0 +1,19 @@
+{
+  "name": "testtradingalgm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@alpacahq/alpaca-trade-api": "^2.16.1",
+    "node-linkedin": "^0.5.6",
+    "trading-indicator": "^1.0.8",
+    "trading-view-ind-ts": "^1.1.0",
+    "twilio": "^3.82.0",
+    "xhr2": "^0.2.1"
+  }
+}
